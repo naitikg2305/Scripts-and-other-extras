@@ -1,0 +1,19 @@
+identity_id,role_id,role_name
+user-101,role-001,Finance Analyst
+user-102,role-002,Finance Analyst
+user-103,role-003,Fin Analyst
+user-104,role-004,Finance_Analyst
+user-107,role-007,Sr Finance Analyst
+user-108,role-008,Finance Anlst
+user-105,role-005,HR Manager
+user-106,role-006,HR_Manager
+user-109,role-009,Human Resource Manager
+user-110,role-010,HR Mngr
+user-111,role-011,IT Support Specialist
+user-112,role-012,IT_Support
+user-113,role-013,IT Support Spec.
+user-114,role-014,IT Helpdesk
+user-115,role-015,Sales Executive
+user-116,role-016,Sales Exec
+user-117,role-017,Sales_Executive
+user-118,role-018,Sr Sales Executive

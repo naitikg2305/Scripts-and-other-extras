@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Virtual environments
+venv_pdf/
+venv/
+.venv/
+env/
+
+# Extracted output folders (large, regeneratable)
+extracted_pptx_photos/
+extracted_photos/
+headshots/
+
+# Large binary/media files
+*.xlsx
+*.pptx
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.zip
+*.tflite
+
+# Temp / lock files
+~$*
+*.Zone.Identifier
+*.log
+outpt.txt
+output.txt
+role_desc_cache.json
+
+# Models folder (large)
+models/
+
+# Data outputs (regeneratable)
+test1Out.csv
+test2Out.csv
+sample_iam_data(out).csv
+spt_identityrole_standardized.csv
+duplicate_roles_report.txt

@@ -1,0 +1,151 @@
+Role ID,Role Name,Role Description,Role Type,Entitlement Value,Entitlement Type,Application Name,Identity,Source System
+IT_Support_Level1,IT_Support_Level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,daniel.anderson,Oracle Feed
+FIN_ANALYST_V2,Finance_Analyst_V2,Read-only finance dashboard and budget access,Business,FIN_READ_ONLY,Permission,Oracle ERP,ava.patel,Workday Feed
+IT_Support_Level1,IT_Support_Level1,Primary IT support triage and request allocation,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,emily.johnson,Oracle Feed
+HR_MGR_US,HR_Manager,Manage employee records and payroll approvals ,Business,HR_FULL_ACCESS,Permission,Workday,raj.doe,Legacy System
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,olivia.taylor,Manual Entry
+HR_Manager,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,SAP Ariba,sophia.lee,Legacy System
+R004,Salesforce_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,john.johnson,Manual Entry
+Vendor_Manager,Vendor_Manager,Manage vendor relationships and approve invoices,Business,INVOICE_APPROVAL,Permission,Oracle ERP,michael.taylor,Oracle Feed
+R004,Salesforce_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,raj.lee,SAP Feed
+ERP_FIN_01,FIN_Analyst,Access to finance reporting and budget tracking toolset,Business,FIN_READ_ONLY,Permission,Workday,daniel.martinez,Legacy System
+IT_Support_Level1,IT_Support_Level1,Primary IT support triage and request allocation,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,james.johnson,Legacy System
+ERP_FIN_01,FIN_Analyst,Read-only finance dashboard and budget access,Business,FIN_READ_ONLY,Permission,Workday,jane.lee,SAP Feed
+R001,Finance_Analyst,Access to finance reporting and budget tracking tools ,Business,FIN_READ_ONLY,Permission,Oracle ERP,sophia.martinez,Oracle Feed
+HR_MGR_US,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,Workday,emily.martinez,Workday Feed
+Vendor_Manager,Vendor_Manager,Vendor account management with approval authority,Business,INVOICE_APPROVAL,Permission,Oracle ERP,sophia.brown,SAP Feed
+HR_MGR_US,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,Workday,emily.martinez,SAP Feed
+HR_MGR_US,HR_Manager,HR authority for personnel files and payroll clearance,Business,HR_FULL_ACCESS,Permission,Workday,olivia.johnson,Oracle Feed
+Vendor_Manager,Vendor_Manager,Oversee supplier contracts and validate invoices,Business,INVOICE_APPROVAL,Permission,Oracle ERP,daniel.anderson,Legacy System
+SFDC_ADMIN,SFDC_Administrator,Complete admin control over Salesforce platform,Technical,SFDC_SYSADMIN,Role,Salesforce,ava.lee,Manual Entry
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,emily.doe,Legacy System
+FIN_ANALYST_V1,Finance_Analyst_V1,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,ava.kumar,Workday Feed
+R001,Finance_Analyst,Access to finance reportin and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,lisa.martinez,Legacy System
+HR_MGR_US,HR_Manager,Oversee staff information and authorize salary processing,Business,HR_FULL_ACCESS,Permission,Workday,ava.patel,Manual Entry
+FIN_ANALYST_V1,Finance_Analyst_V1,Read-only finance dashboard and budget access,Business,FIN_READ_ONLY,Permission,Oracle ERP,david.patel,Workday Feed
+HR_Manager,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,SAP Ariba,sophia.patel,SAP Feed
+R004,Salesforce_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,sophia.lee,Workday Feed
+HR_Manager,HR_Manager,Oversee staff information and authorize salary processing,Business,HR_FULL_ACCESS,Permission,SAP Ariba,john.brown,Oracle Feed
+R004,Salesforce_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,olivia.brown,Oracle Feed
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,michael.doe,SAP Feed
+HR_MGR_US,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,Workday,john.chen,Workday Feed
+HR_MGR_US,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,Workday,michael.chen,Legacy System
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,robert.patel,Oracle Feed
+IT_Support_Level1,IT_Support_Level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,olivia.lee,SAP Feed
+Vendor_Manager,Vendor_Manager,Manage vendor relationships and approve invoices,Business,INVOICE_APPROVAL,Permission,Oracle ERP,james.thomas,Manual Entry
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,daniel.patel,Legacy System
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,raj.kumar,Legacy System
+HR_Manager,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,SAP Ariba,michael.wong,Oracle Feed
+IT_Support_Level1,IT_Support_Level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,john.lee,Legacy System
+ERP_FIN_01,FIN_Analyst,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Workday,james.kumar,Workday Feed
+IT_Support_Level1,IT_Support_Level1,Basic troubleshooting & ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,sophia.anderson,Legacy System
+Vendor_Manager,Vendor_Manager,Manage vendor relationships and approve invoices,Business,INVOICE_APPROVAL,Permission,Oracle ERP,emily.anderson,Legacy System
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,john.brown,Workday Feed
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,john.smith,Workday Feed
+it_support_level1,it_support_level1,Primary IT support triage and request allocation,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,james.doe,Oracle Feed
+IT_Support_Level1,IT_Support_Level1,Basic troubleshooting and ticket assignments,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,robert.patel,Manual Entry
+it_support_level1,it_support_level1,Primary IT support triage and request allocation,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,john.chen,Oracle Feed
+R004,Salesforce_Admin,Manage all Salesforce configurations and user permissions,Technical,SFDC_SYSADMIN,Role,Salesforce,jane.smith,Legacy System
+FIN_ANALYST_V2,Finance_Analyst_V2,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,sophia.smith,Workday Feed
+FIN_ANALYST_V1,Finance_Analyst_V1,Access to finance reporting & budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,david.kumar,SAP Feed
+AP_Processor,AP_Processor,Process accounts payable transactions,Business,INVOICE_APPROVAL,Permission,Oracle ERP,james.martinez,Oracle Feed
+ERP_FIN_01,FIN_Analyst,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Workday,james.anderson,Oracle Feed
+AP_Processor,AP_Processor,Process accounts payable transactions ,Business,INVOICE_APPROVAL,Permission,Oracle ERP,raj.chen,SAP Feed
+FIN_ANALYST_V1,Finance_Analyst_V1,Read-only finance dashboard and budget access,Business,FIN_READ_ONLY,Permission,Oracle ERP,lisa.johnson,Legacy System
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,emily.patel,SAP Feed
+ERP_FIN_01,FIN_Analyst,View-only access to finance reports and budget dashboards,Business,FIN_READ_ONLY,Permission,Workday,ava.wong,Oracle Feed
+AP_Processor,AP_Processor,Process accounts payable transactions,Business,INVOICE_APPROVAL,Permission,Oracle ERP,ava.kumar,Legacy System
+IT_Support_Level1,IT_Support_Level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,james.kumar,Oracle Feed
+FIN_ANALYST_V1,Finance_Analyst_V1,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,jane.chen,Manual Entry
+Vendor_Manager,Vendor_Manager,Manage vendor relationships and approve invoices,Business,INVOICE_APPROVAL,Permission,Oracle ERP,emily.johnson,Legacy System
+HR_Manager,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,SAP Ariba,jane.wong,Oracle Feed
+IT_Support_Level1,IT_Support_Level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,lisa.chen,Oracle Feed
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,sophia.anderson,Oracle Feed
+it_support_level1,it_support_level1,Initial helpdesk support and ticket routing,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,sophia.lee,Manual Entry
+AP_Processor,AP_Processor,Process accounts payable txn,Business,INVOICE_APPROVAL,Permission,Oracle ERP,daniel.lee,Legacy System
+HR_MGR_US,HR_Manager,HR authority for personnel files and payroll clearance,Business,HR_FULL_ACCESS,Permission,Workday,raj.chen,Workday Feed
+Vendor_Manager,Vendor_Manager,Vendor account management with approval authority,Business,INVOICE_APPROVAL,Permission,Oracle ERP,sophia.taylor,Legacy System
+it_support_level1,it_support_level1,Initial helpdesk support and ticket routing,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,lisa.lopez,Legacy System
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,priya.lopez,Legacy System
+R001,Finance_Analyst,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,daniel.thomas,Manual Entry
+R004,Salesforce_Admin,Full administrative permissions in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,michael.wong,SAP Feed
+AP_Processor,AP_Processor,Process accounts payable transactions,Business,INVOICE_APPROVAL,Permission,Oracle ERP,robert.thomas,Oracle Feed
+IT_Support_Level1,IT_Support_Level1,Primary IT support triage and request allocation,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,raj.martinez,Manual Entry
+FIN_ANALYST_V2,Finance_Analyst_V2,Read-only finance dashboard and budget access,Business,FIN_READ_ONLY,Permission,Oracle ERP,jane.lopez,SAP Feed
+R004,Salesforce_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,emily.martinez,Manual Entry
+AP_Processor,AP_Processor,Manage financial obligations to suppliers,Business,INVOICE_APPROVAL,Permission,Oracle ERP,david.smith,Workday Feed
+Vendor_Manager,Vendor_Manager,Vendor account management with approval authority,Business,INVOICE_APPROVAL,Permission,Oracle ERP,olivia.doe,Manual Entry
+IT_Support_Level1,IT_Support_Level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,robert.smith,Oracle Feed
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,michael.wong,Oracle Feed
+HR_Manager,HR_Manager,HR authority for personnel files and payroll clearance,Business,HR_FULL_ACCESS,Permission,SAP Ariba,emily.kumar,Oracle Feed
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,olivia.martinez,Workday Feed
+ERP_FIN_01,FIN_Analyst,Read-only finance dashboard and budget access,Business,FIN_READ_ONLY,Permission,Workday,john.brown,Manual Entry
+AP_Processor,AP_Processor,Handle AP invoice processing and vendor payments,Business,INVOICE_APPROVAL,Permission,Oracle ERP,lisa.anderson,Workday Feed
+R001,Finance_Analyst,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,raj.smith,Oracle Feed
+R001,Finance_Analyst,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,raj.doe,Oracle Feed
+FIN_ANALYST_V2,Finance_Analyst_V2,Access to finance reporting and budget tracking toolset,Business,FIN_READ_ONLY,Permission,Oracle ERP,james.smith,Manual Entry
+HR_MGR_US,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,Workday,emily.brown,Workday Feed
+R001,Finance_Analyst,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,sophia.doe,Workday Feed
+FIN_ANALYST_V1,Finance_Analyst_V1,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,daniel.brown,Manual Entry
+HR_Manager,HR_Manager,Oversee staff information and authorize salary processing,Business,HR_FULL_ACCESS,Permission,SAP Ariba,ava.smith,Oracle Feed
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,sophia.wong,Legacy System
+R001,Finance_Analyst,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,lisa.smith,Workday Feed
+HR_Manager,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,SAP Ariba,john.lopez,Manual Entry
+IT_Support_Level1,IT_Support_Level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,michael.patel,Manual Entry
+ERP_FIN_01,FIN_Analyst,View-only access to finance reports and budget dashboards,Business,FIN_READ_ONLY,Permission,Workday,david.wong,Workday Feed
+R001,Finance_Analyst,Read-only finance dashboard and budget access,Business,FIN_READ_ONLY,Permission,Oracle ERP,ava.patel,Legacy System
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,robert.thomas,Workday Feed
+HR_MGR_US,HR_Manager,Manage employee records & payroll approvals,Business,HR_FULL_ACCESS,Permission,Workday,daniel.patel,SAP Feed
+AP_Processor,AP_Processor,Handle AP invoice processing and vendor payments,Business,INVOICE_APPROVAL,Permission,Oracle ERP,john.anderson,Manual Entry
+IT_Support_Level1,IT_Support_Level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,sophia.taylor,Oracle Feed
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,michael.lopez,SAP Feed
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,james.lee,Manual Entry
+ERP_FIN_01,FIN_Analyst,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Workday,james.lopez,SAP Feed
+IT_Support_Level1,IT_Support_Level1,Initial helpdesk support and ticket routing,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,sophia.lopez,Workday Feed
+AP_Processor,AP_Processor,Process accounts payable transactions,Business,INVOICE_APPROVAL,Permission,Oracle ERP,sophia.chen,Oracle Feed
+HR_MGR_US,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,Workday,david.smith,Legacy System
+ERP_FIN_01,FIN_Analyst,View-only access to finance reports and budget dashboards,Business,FIN_READ_ONLY,Permission,Workday,john.doe,SAP Feed
+Vendor_Manager,Vendor_Manager,Oversee supplier contracts and validate invoices,Business,INVOICE_APPROVAL,Permission,Oracle ERP,raj.lee,Legacy System
+R004,Salesforce_Admin,Manage all Salesforce configurations and user permissions,Technical,SFDC_SYSADMIN,Role,Salesforce,david.doe,Oracle Feed
+Vendor_Manager,Vendor_Manager,Manage vendor relationships and approve invoices,Business,INVOICE_APPROVAL,Permission,Oracle ERP,ava.lee,Manual Entry
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,michael.brown,Workday Feed
+FIN_ANALYST_V1,Finance_Analyst_V1,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,james.thomas,Oracle Feed
+IT_Support_Level1,IT_Support_Level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,emily.patel,Workday Feed
+Vendor_Manager,Vendor_Manager,Manage vendor relationships and approve invoices ,Business,INVOICE_APPROVAL,Permission,Oracle ERP,sophia.smith,Workday Feed
+ERP_FIN_01,FIN_Analyst,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Workday,daniel.lee,Workday Feed
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,michael.johnson,Legacy System
+R001,Finance_Analyst,Read-only finance dashboard and budget access,Business,FIN_READ_ONLY,Permission,Oracle ERP,john.kumar,Workday Feed
+FIN_ANALYST_V2,Finance_Analyst_V2,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,john.kumar,SAP Feed
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM ,Technical,SFDC_SYSADMIN,Role,Salesforce,emily.anderson,Oracle Feed
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,emily.taylor,Manual Entry
+R001,Finance_Analyst,Read-only finance dashboard and budget access,Business,FIN_READ_ONLY,Permission,Oracle ERP,john.doe,Oracle Feed
+SFDC_ADMIN,SFDC_Admin,Manage all Salesforce configurations and user permissions,Technical,SFDC_SYSADMIN,Role,Salesforce,raj.thomas,Manual Entry
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,priya.kumar,Workday Feed
+FIN_ANALYST_V1,Finance_Analyst_V1,Read-only finance dashboard and budget access,Business,FIN_READ_ONLY,Permission,Oracle ERP,jane.brown,Oracle Feed
+FIN_ANALYST_V1,Finance_Analyst_V1,Read-only finance dashboard and budget access,Business,FIN_READ_ONLY,Permission,Oracle ERP,sophia.taylor,Oracle Feed
+IT_Support_Level1,IT_Support_Level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,priya.patel,Legacy System
+ERP_FIN_01,FIN_Analyst,View-only access to finance reports and budget dashboards,Business,FIN_READ_ONLY,Permission,Workday,olivia.wong,Legacy System
+R001,Finance_Analyst,Access to finance reporting and budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,olivia.kumar,Oracle Feed
+R004,Salesforce_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,olivia.anderson,Oracle Feed
+SFDC_ADMIN,SFDC_Admin,Complete admin control over Salesforce platform,Technical,SFDC_SYSADMIN,Role,Salesforce,lisa.brown,Oracle Feed
+HR_Manager,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,SAP Ariba,john.lee,Legacy System
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,priya.anderson,Manual Entry
+HR_MGR_US,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,Workday,jane.brown,Oracle Feed
+R004,Salesforce_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,emily.doe,Workday Feed
+SFDC_ADMIN,SFDC_Admin,Manage all Salesforce configurations and user permissions,Technical,SFDC_SYSADMIN,Role,Salesforce,john.thomas,Legacy System
+HR_MGR_US,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,Workday,lisa.brown,Oracle Feed
+SFDC_ADMIN,SFDC_Admin,Complete admin control over Salesforce platform,Technical,SFDC_SYSADMIN,Role,Salesforce,james.brown,Legacy System
+AP_Processor,AP_Processor,Process accounts payable transactions,Business,INVOICE_APPROVAL,Permission,Oracle ERP,lisa.chen,SAP Feed
+AP_Processor,AP_Processor,Process accounts payable transactions,Business,INVOICE_APPROVAL,Permission,Oracle ERP,robert.taylor,Oracle Feed
+SFDC_ADMIN,SFDC_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,emily.patel,Oracle Feed
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,james.taylor,Legacy System
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,lisa.lopez,SAP Feed
+R001,Finance_Analyst,View-only access to finance reports and budget dashboards,Business,FIN_READ_ONLY,Permission,Oracle ERP,john.brown,Legacy System
+ERP_FIN_01,FIN_Analyst,Access to finance reporting and budget tracking tools ,Business,FIN_READ_ONLY,Permission,Workday,john.kumar,Manual Entry
+FIN_ANALYST_V1,Finance_Analyst_V1,Access to finance reporting & budget tracking tools,Business,FIN_READ_ONLY,Permission,Oracle ERP,priya.thomas,Legacy System
+HR_Manager,HR_Manager,Oversee staff information and authorize salary processing,Business,HR_FULL_ACCESS,Permission,SAP Ariba,lisa.brown,Oracle Feed
+it_support_level1,it_support_level1,Basic troubleshooting and ticket assignment,Technical,IT_HELPDESK_LEVEL1,Group Membership,ServiceNow,daniel.patel,Workday Feed
+R004,Salesforce_Admin,Full administrative rights in Salesforce CRM,Technical,SFDC_SYSADMIN,Role,Salesforce,jane.taylor,SAP Feed
+R001,Finance_Analyst,Access to finance reporting and budget tracking tools ,Business,FIN_READ_ONLY,Permission,Oracle ERP,robert.lee,Manual Entry
+HR_Manager,HR_Manager,Manage employee records and payroll approvals,Business,HR_FULL_ACCESS,Permission,SAP Ariba,james.johnson,Oracle Feed
+R004,Salesforce_Admin,Manage all Salesforce configurations and user permissions,Technical,SFDC_SYSADMIN,Role,Salesforce,michael.taylor,Workday Feed
