@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Download local models into LOCAL_MODELS_DIR (or ./models).
+"""Download local models into LOCAL_MODELS_DIR (or the workspace's shared ../models).
 
 Usage:
     python download_models.py              # Phi-3 mini only

@@ -5,7 +5,7 @@ Set LOCAL_MODELS_DIR to one folder used by every repo, e.g.:
     export LOCAL_MODELS_DIR=/home/you/models
 
 Phi-3 files then live at $LOCAL_MODELS_DIR/phi3-mini.
-If unset, this repo uses ./models next to the scripts.
+If unset, this repo uses the shared ../models directory at the code-workspace root.
 """
 import os
 from pathlib import Path
@@ -19,7 +19,7 @@ def models_root() -> Path:
     override = os.environ.get("LOCAL_MODELS_DIR") or os.environ.get("MODELS_DIR")
     if override:
         return Path(override).expanduser().resolve()
-    return REPO_ROOT / "models"
+    return REPO_ROOT.parent / "models"
 
 
 def phi3_mini_dir() -> Path:
